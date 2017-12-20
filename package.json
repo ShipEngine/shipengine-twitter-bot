@@ -12,14 +12,12 @@
   "license": "MIT",
   "main": "lib/twitter.js",
   "files": [
-    "bin",
     "lib"
   ],
   "scripts": {
-    "start": "node bin/server.js"
+    "start": "node lib/twitter.js"
   },
   "dependencies": {
-    "express": "^4.16.2",
     "lodash": "^4.17.4",
     "shipengine": "^0.2.3",
     "twit": "^2.2.9",
