@@ -1,0 +1,56 @@
+{
+	"businesses": [
+		{
+			"id": "t-locs-sonora-hot-dogs-austin-4",
+			"name": "T-Loc's Sonora Hot Dogs",
+			"image_url": "https://s3-media3.fl.yelpcdn.com/bphoto/G4sZfCStYA9lh0aq7R_cxw/o.jpg",
+			"is_closed": false,
+			"url": "https://www.yelp.com/biz/t-locs-sonora-hot-dogs-austin-4?adjust_creative=Edf9y496MjKrZ7FBejeYcg&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_search&utm_source=Edf9y496MjKrZ7FBejeYcg",
+			"review_count": 292,
+			"categories": [
+				{
+					"alias": "hotdog",
+					"title": "Hot Dogs"
+				},
+				{
+					"alias": "foodtrucks",
+					"title": "Food Trucks"
+				},
+				{
+					"alias": "tacos",
+					"title": "Tacos"
+				}
+			],
+			"rating": 5.0,
+			"coordinates": {
+				"latitude": 30.3211689,
+				"longitude": -97.7395055
+			},
+			"transactions": [],
+			"price": "$",
+			"location": {
+				"address1": "5000 Burnet Rd",
+				"address2": null,
+				"address3": "",
+				"city": "Austin",
+				"zip_code": "78756",
+				"country": "US",
+				"state": "TX",
+				"display_address": [
+					"5000 Burnet Rd",
+					"Austin, TX 78756"
+				]
+			},
+			"phone": "+15129948982",
+			"display_phone": "(512) 994-8982",
+			"distance": 2495.7300321239995
+		}
+	],
+	"total": 34800,
+	"region": {
+		"center": {
+			"longitude": -97.7577209473,
+			"latitude": 30.305156316
+		}
+	}
+}

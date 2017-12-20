@@ -1,0 +1,789 @@
+{
+	"rate_response": {
+		"rates": [
+			{
+				"rate_id": "se-9766593",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 0.46
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "letter",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS First Class Mail",
+				"service_code": "usps_first_class_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766594",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 0.98
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "large_envelope_or_flat",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS First Class Mail",
+				"service_code": "usps_first_class_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766595",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 2.61
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "package",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS First Class Mail",
+				"service_code": "usps_first_class_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766596",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 6.66
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "package",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766597",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 12.05
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "medium_flat_rate_box",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766598",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 6.25
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "small_flat_rate_box",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766599",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 16.55
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "large_flat_rate_box",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766600",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 5.75
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "flat_rate_envelope",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766601",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 6.30
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "flat_rate_padded_envelope",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766602",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 9.14
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "regional_rate_box_a",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766603",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 15.63
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "regional_rate_box_b",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766604",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 6.05
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "flat_rate_legal_envelope",
+				"delivery_days": 3,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-22T00:00:00Z",
+				"carrier_delivery_days": "3",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail",
+				"service_code": "usps_priority_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766605",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 25.42
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "package",
+				"delivery_days": 2,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-21T00:00:00Z",
+				"carrier_delivery_days": "1-2",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail Express",
+				"service_code": "usps_priority_mail_express",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766606",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 21.18
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "flat_rate_envelope",
+				"delivery_days": 2,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-21T00:00:00Z",
+				"carrier_delivery_days": "1-2",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail Express",
+				"service_code": "usps_priority_mail_express",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766607",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 21.64
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "flat_rate_padded_envelope",
+				"delivery_days": 2,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-21T00:00:00Z",
+				"carrier_delivery_days": "1-2",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail Express",
+				"service_code": "usps_priority_mail_express",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766608",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 21.28
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "flat_rate_legal_envelope",
+				"delivery_days": 2,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-21T00:00:00Z",
+				"carrier_delivery_days": "1-2",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Priority Mail Express",
+				"service_code": "usps_priority_mail_express",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766609",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 2.63
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "package",
+				"delivery_days": 8,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-27T00:00:00Z",
+				"carrier_delivery_days": "6",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Media Mail",
+				"service_code": "usps_media_mail",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			},
+			{
+				"rate_id": "se-9766610",
+				"rate_type": "shipment",
+				"carrier_id": "se-123890",
+				"shipping_amount": {
+					"currency": "usd",
+					"amount": 6.81
+				},
+				"insurance_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"confirmation_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"other_amount": {
+					"currency": "usd",
+					"amount": 0.00
+				},
+				"zone": 6,
+				"package_type": "package",
+				"delivery_days": 8,
+				"guaranteed_service": false,
+				"estimated_delivery_date": "2017-12-27T00:00:00Z",
+				"carrier_delivery_days": "6",
+				"ship_date": "2017-12-19T00:00:00Z",
+				"negotiated_rate": false,
+				"service_type": "USPS Parcel Select Ground",
+				"service_code": "usps_parcel_select",
+				"trackable": true,
+				"validation_status": "valid",
+				"warning_messages": [],
+				"error_messages": [],
+				"carrier_code": "stamps_com",
+				"carrier_nickname": "Free",
+				"carrier_friendly_name": "Stamps.com"
+			}
+		],
+		"invalid_rates": [],
+		"rate_request_id": "se-698399",
+		"shipment_id": "se-184217886",
+		"created_at": "2017-12-19T16:55:44.703Z",
+		"status": "completed",
+		"errors": []
+	},
+	"shipment_id": "se-184217886",
+	"carrier_id": null,
+	"service_code": null,
+	"external_shipment_id": null,
+	"ship_date": "2017-12-19T00:00:00Z",
+	"created_at": "2017-12-19T16:55:43.563Z",
+	"modified_at": "2017-12-19T16:55:43.563Z",
+	"shipment_status": "pending",
+	"ship_to": {
+		"name": "RECEIVER",
+		"phone": "123-456-7890",
+		"company_name": null,
+		"address_line1": "*",
+		"address_line2": "",
+		"address_line3": null,
+		"city_locality": "BURBANK",
+		"state_province": "CA",
+		"postal_code": "91521-0001",
+		"country_code": "US",
+		"address_residential_indicator": "no"
+	},
+	"ship_from": {
+		"name": "Sender",
+		"phone": "123-456-7890",
+		"company_name": null,
+		"address_line1": "*",
+		"address_line2": null,
+		"address_line3": null,
+		"city_locality": "*",
+		"state_province": "TX",
+		"postal_code": "78701",
+		"country_code": "US",
+		"address_residential_indicator": "unknown"
+	},
+	"warehouse_id": null,
+	"return_to": {
+		"name": "Sender",
+		"phone": "123-456-7890",
+		"company_name": null,
+		"address_line1": "*",
+		"address_line2": null,
+		"address_line3": null,
+		"city_locality": "*",
+		"state_province": "TX",
+		"postal_code": "78701",
+		"country_code": "US",
+		"address_residential_indicator": "unknown"
+	},
+	"confirmation": "none",
+	"customs": null,
+	"advanced_options": {
+		"bill_to_account": null,
+		"bill_to_country_code": null,
+		"bill_to_party": null,
+		"bill_to_postal_code": null,
+		"contains_alcohol": false,
+		"custom_field1": null,
+		"custom_field2": null,
+		"custom_field3": null,
+		"non_machinable": false,
+		"saturday_delivery": false,
+		"delivered_duty_paid": false
+	},
+	"insurance_provider": "none",
+	"tags": [],
+	"packages": [
+		{
+			"package_code": "package",
+			"weight": {
+				"value": 1.00,
+				"unit": "ounce"
+			},
+			"dimensions": {
+				"unit": "inch",
+				"length": 0.0,
+				"width": 0.0,
+				"height": 0.0
+			},
+			"insured_value": {
+				"currency": "usd",
+				"amount": 0.00
+			},
+			"label_messages": {
+				"reference1": null,
+				"reference2": null,
+				"reference3": null
+			}
+		}
+	],
+	"total_weight": {
+		"value": 1.00,
+		"unit": "ounce"
+	}
+}
