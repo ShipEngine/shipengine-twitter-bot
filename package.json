@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A Twitter bot that answers natural language queries about shipping packages",
   "main": "lib/twitter.js",
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "start": "node lib/twitter.js"
   },
