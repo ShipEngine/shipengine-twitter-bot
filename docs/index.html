@@ -62,7 +62,7 @@
           <div class="article-time">Dec 19 . 3 min read</div>
         </div>
 
-        <h1>Build a natrual language Twitter bot</h1>
+        <h1>Build a natural language Twitter bot</h1>
         <h2>using Node.js and the Yelp and ShipEngine APIs</h2>
       </header>
 
@@ -222,7 +222,7 @@ async function handleTweet (tweet) {
         The <code>buildResponse</code> function will simply accept a string (the original tweet) and return a string (the response tweet), neither of which is specific to Twitter.  In fact, from this point forward, none of the code is specific to Twitter, which means you could easily re-use this same code to build a <a href="https://api.slack.com/bot-users">Slack bot</a>, a <a href="https://developers.facebook.com/docs/messenger-platform">Facebook Messenger bot</a>, or any other chatbot.
       </p>
       <p>
-        Since this code isn't Twitter-specifc, let's create a new file named "buildResponse.js", rather than putting everything in one file.  Add this line to the top of "twitter.js":
+        Since this code isn't Twitter-specific, let's create a new file named "buildResponse.js", rather than putting everything in one file.  Add this line to the top of "twitter.js":
       </p>
       <pre><code class="language-javascript">
 const buildResponse = require("./buildResponse");
