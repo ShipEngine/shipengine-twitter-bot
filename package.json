@@ -19,12 +19,12 @@
   },
   "dependencies": {
     "lodash": "^4.17.4",
-    "shipengine": "^0.2.3",
+    "shipengine": "^0.3.1",
     "twit": "^2.2.9",
     "yelp-fusion": "^2.0.3"
   },
   "devDependencies": {
-    "eslint": "^4.13.1",
+    "eslint": "^4.15.0",
     "eslint-config-modular": "^4.1.1"
   }
 }
