@@ -1,6 +1,6 @@
 {
   "name": "ship-engine-bot",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "A Twitter bot that answers natural language queries about shipping packages",
   "keywords": [
     "bot",
@@ -15,7 +15,11 @@
     "lib"
   ],
   "scripts": {
-    "start": "node lib/twitter.js"
+    "lint": "eslint lib test --fix",
+    "start": "node lib/twitter.js",
+    "upgrade": "npm-check -u",
+    "bump": "bump --prompt --tag --push --all",
+    "release": "npm run upgrade && npm run bump && npm publish"
   },
   "dependencies": {
     "lodash": "^4.17.4",
@@ -25,6 +29,8 @@
   },
   "devDependencies": {
     "eslint": "^4.15.0",
-    "eslint-config-modular": "^4.1.1"
+    "eslint-config-modular": "^4.1.1",
+    "npm-check": "^5.5.2",
+    "version-bump-prompt": "^4.0.0"
   }
 }
