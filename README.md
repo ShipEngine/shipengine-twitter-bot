@@ -7,7 +7,7 @@
 [![npm](http://img.shields.io/npm/v/ship-engine-bot.svg)](https://www.npmjs.com/package/ship-engine-bot)
 [![License](https://img.shields.io/npm/l/ship-engine-bot.svg)](LICENSE)
 
-[@ShipEngineBot](https://twitter.com/ShipEngineBot) is a Twitter bot that's written in Node.js.  It uses ShipEngine's [shipping rates API](https://docs.shipengine.com/docs/get-shipping-rates), Yelp's [business search API](https://www.yelp.com/developers/documentation/v3/business_search), and Twitter's [stream API](https://developer.twitter.com/en/docs/tutorials/consuming-streaming-data) to answer natural language questions about shipping packages.
+[@ShipEngineBot](https://twitter.com/ShipEngineBot/with_replies) is a Twitter bot that's written in Node.js.  It uses ShipEngine's [shipping rates API](https://docs.shipengine.com/docs/get-shipping-rates), Yelp's [business search API](https://www.yelp.com/developers/documentation/v3/business_search), and Twitter's [stream API](https://developer.twitter.com/en/docs/tutorials/consuming-streaming-data) to answer natural language questions about shipping packages.
 
 ### A few examples
 These are the kinds of questions that you can ask @ShipEngineBot:
