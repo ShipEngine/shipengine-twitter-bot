@@ -2,7 +2,7 @@
 ============================
 ## A Twitter bot that answers natural language queries about shipping packages
 
-[![Dependencies](https://david-dm.org/BigstickCarpet/ship-engine-bot.svg)](https://david-dm.org/BigstickCarpet/ship-engine-bot)
+[![Dependencies](https://david-dm.org/James-Messinger/ship-engine-bot.svg)](https://david-dm.org/James-Messinger/ship-engine-bot)
 [![Codacy Score](https://api.codacy.com/project/badge/Grade/82170a210b154184b8044f52f926c047)](https://www.codacy.com/public/jamesmessinger/ship-engine-bot)
 [![npm](http://img.shields.io/npm/v/ship-engine-bot.svg)](https://www.npmjs.com/package/ship-engine-bot)
 [![License](https://img.shields.io/npm/l/ship-engine-bot.svg)](LICENSE)
@@ -22,4 +22,4 @@ These are the kinds of questions that you can ask @ShipEngineBot:
 
 
 ### Complete walkthrough
-For a complete walkthrough of the code, go to [http://bigstickcarpet.com/ship-engine-bot/](http://bigstickcarpet.com/ship-engine-bot/)
+For a complete walkthrough of the code, go to [https://jamesmessinger.com/ship-engine-bot/](https://jamesmessinger.com/ship-engine-bot/)
