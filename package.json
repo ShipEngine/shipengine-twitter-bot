@@ -15,7 +15,7 @@
     "lib"
   ],
   "scripts": {
-    "lint": "eslint lib test --fix",
+    "lint": "eslint lib test",
     "start": "node lib/twitter.js",
     "upgrade": "npm-check -u",
     "bump": "bump --prompt --tag --push --all",
