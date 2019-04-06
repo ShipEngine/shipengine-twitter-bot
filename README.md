@@ -18,7 +18,3 @@ These are the kinds of questions that you can ask @ShipEngineBot:
 > I wonder if @ShipEngineBot can help me ship 5kg of potato chips to 78702 from 90210
 
 > @ShipEngineBot Can you help me send a package from Denver to Orlando? It weighs 4 pounds.
-
-
-### Complete walkthrough
-For a complete walkthrough of the code, go to [https://jamesmessinger.com/ship-engine-bot/](https://jamesmessinger.com/ship-engine-bot/)

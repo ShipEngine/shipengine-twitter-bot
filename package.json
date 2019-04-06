@@ -1,5 +1,5 @@
 {
-  "name": "ship-engine-bot",
+  "name": "shipengine-twitter-bot",
   "version": "1.1.1",
   "description": "A Twitter bot that answers natural language queries about shipping packages",
   "keywords": [
@@ -8,8 +8,16 @@
     "yelp",
     "shipengine"
   ],
-  "author": "James Messinger",
+  "author": {
+    "name": "ShipEngine",
+    "email": "support@shipengine.com",
+    "url": "https://shipengine.com"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShipEngine/shipengine-twitter-bot.git"
+  },
   "main": "lib/twitter.js",
   "files": [
     "lib"
