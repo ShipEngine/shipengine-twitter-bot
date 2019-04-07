@@ -26,9 +26,9 @@
     "start": "node lib/twitter.js"
   },
   "dependencies": {
-    "lodash": "^4.17.4",
+    "lodash": "^4.17.11",
     "shipengine": "^0.3.1",
-    "twit": "^2.2.9",
-    "yelp-fusion": "^2.0.3"
+    "twit": "^2.2.11",
+    "yelp-fusion": "^2.2.1"
   }
 }
