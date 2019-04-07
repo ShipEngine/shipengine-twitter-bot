@@ -1,5 +1,6 @@
 # Git ignore
 # https://git-scm.com/docs/gitignore
 
+.env
 .vscode
 node_modules
