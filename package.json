@@ -1,6 +1,6 @@
 {
   "name": "shipengine-twitter-bot",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "A Twitter bot that answers natural language questions about shipping",
   "keywords": [
     "bot",
